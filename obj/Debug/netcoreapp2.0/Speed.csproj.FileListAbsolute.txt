@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Speed\Speed\bin\Debug\netcoreapp2.0\Speed.deps.json
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Speed\Speed\bin\Debug\netcoreapp2.0\Speed.runtimeconfig.json
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Speed\Speed\bin\Debug\netcoreapp2.0\Speed.runtimeconfig.dev.json
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Speed\Speed\bin\Debug\netcoreapp2.0\Speed.dll
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Speed\Speed\bin\Debug\netcoreapp2.0\Speed.pdb
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Speed\Speed\obj\Debug\netcoreapp2.0\Speed.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Speed\Speed\obj\Debug\netcoreapp2.0\Speed.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Speed\Speed\obj\Debug\netcoreapp2.0\Speed.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Speed\Speed\obj\Debug\netcoreapp2.0\Speed.AssemblyInfo.cs
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Speed\Speed\obj\Debug\netcoreapp2.0\Speed.dll
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Speed\Speed\obj\Debug\netcoreapp2.0\Speed.pdb
